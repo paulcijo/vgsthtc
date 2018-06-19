@@ -1,4 +1,9 @@
+age group mapped for max stroke.
+months where this is maximum.
+
 predict the type of stroke
+
+recurrent stroke:
 find characteristics shared by patients having recurrent stroke
 find probability of having a recurrent stroke
 find which types of strokes follow which ones.
